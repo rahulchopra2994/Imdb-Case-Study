@@ -2,3 +2,4 @@
 The data includes the 100 top-rated movies from the past decade along with various pieces of information about the movie, its actors, and the voters who have rated these movies online. 
 Python code has been written to explore the data, gain insights into the movies, actors, votes, ratings and collections.
 Libraries used for data analysis and visualization are - Pandas, Numpy, Seaborn & Matplotlib
+Individual case study submission performed as a part of PG in Data Science course from upgrad.
